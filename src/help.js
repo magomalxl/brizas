@@ -1,5 +1,5 @@
 const help = (prefix) => {
-	return `💎 Comandos do  ALN-BOT 💎  
+	return `💎 Comandos do  M A G O B O T 💎  
 🔰 Principais Comandos 🔰 
 
 Comando: '${prefix}sticker' ou '${prefix}stiker'
@@ -152,11 +152,11 @@ Obs: Este comando pode ser usado se você for um administrador do grupo
 
 🔰 Como instalar o bot?? 🔰 
 
-https://fir3.net/ELR5uKC
+WA.ME/+5571997435943
 
 🔰 Apoie o criador do bot a adicionar comandos novos 🥺 🔰
 
-Wa.me/5586988036194 (so de entrar no link ajuda)
+Wa.me/5586988036194 (so de entrar no link ajuda) <<< ROBEI DELE
 
 `
 }
